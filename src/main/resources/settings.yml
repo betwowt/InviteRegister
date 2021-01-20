@@ -1,0 +1,9 @@
+grpc:
+  server:
+    ip: 127.0.0.1
+    port: 10020
+
+invite:
+  cost:
+    item: DIAMOND_ORE
+    amount: 128

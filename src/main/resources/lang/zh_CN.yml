@@ -1,0 +1,20 @@
+PLUGIN:
+  LOADING: '加载完成'
+
+EMAIL:
+  BLANK: '邮箱不能为空'
+  CONFIRM: '两次输入的邮箱不一致'
+  FORMAT-ERROR: '输入的邮箱{0}格式不正确'
+  INVITE-SUCCESS: '邀请成功 邀请码为{0}.输入/sinvite show可以查看邀请状态'
+
+EXCEPTION:
+  MESSAGE: '发生一次错误，错误数据为{0}'
+
+CHECK:
+  MISSING: '使用命令所需物品不足,需要{0}  {1}个'
+
+INVITE:
+  SHOW-HEAD:
+    - '你有{0}个邀请历史'
+    - '| 邀请邮箱     |      状态 |'
+  SHOW: '| {0}      |      {1} |'
